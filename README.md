@@ -113,3 +113,12 @@ The frontend will be running on `http://localhost:5173`.
 ### Server
 
 The `server` directory has its own `package.json` for backend-specific dependencies.
+
+##SCREEENSHOT OUTPUT
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 47 05 PM" src="https://github.com/user-attachments/assets/57e25d8c-7c6a-478e-b155-06f6bee5c95e" />
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 48 06 PM" src="https://github.com/user-attachments/assets/82d40456-3977-4d20-9b22-28530315d905" />
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 46 57 PM" src="https://github.com/user-attachments/assets/18dea763-47bb-4dad-9108-417a2f0a0a1e" />
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 48 24 PM" src="https://github.com/user-attachments/assets/b15c12e1-445b-41c2-b10d-9f9eedb77b0e" />
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 48 38 PM" src="https://github.com/user-attachments/assets/04b154ac-161d-4863-bc78-9a58b850e35e" />
+<img width="1376" height="789" alt="Screenshot 2025-10-04 at 7 48 51 PM" src="https://github.com/user-attachments/assets/8b8a470a-04f0-43ec-9bdf-83df5f16f8c4" />
+
